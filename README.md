@@ -9,7 +9,7 @@ Paper on [Arxiv](https://arxiv.org/abs/2007.13635).
 [Youtube](https://www.youtube.com/watch?v=sOrTcqRTw2A).
 
 ## Presentation
-[Presentation](https://github.com/papermsucode/2020bboxrestoration/blob/master/ECCV2020_CVCOPS_BBoxRestoration.pdf)
+[Presentation](https://github.com/papermsucode/2020bboxrestoration/blob/master/ECCV2020_CVCOPS_BBoxRestoration.pdf).
 
 ## Restoration dynamics
 ![Restoration dynamics](https://github.com/papermsucode/2020bboxrestoration/blob/master/restoration_dynamics.gif)
