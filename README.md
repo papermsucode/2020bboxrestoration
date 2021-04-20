@@ -11,5 +11,11 @@ Paper on [Arxiv](https://arxiv.org/abs/2007.13635).
 ## Presentation
 [Presentation](https://github.com/papermsucode/2020bboxrestoration/blob/master/ECCV2020_CVCOPS_BBoxRestoration.pdf).
 
+## Algorithm
+Run all cells in 
+```
+face_recovery.ipynb
+```
+
 ## Restoration dynamics
 ![Restoration dynamics](https://github.com/papermsucode/2020bboxrestoration/blob/master/restoration_dynamics.gif)
