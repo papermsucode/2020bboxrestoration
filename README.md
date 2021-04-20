@@ -12,6 +12,9 @@ Paper on [Arxiv](https://arxiv.org/abs/2007.13635).
 [Presentation](https://github.com/papermsucode/2020bboxrestoration/blob/master/ECCV2020_CVCOPS_BBoxRestoration.pdf).
 
 ## Algorithm
+### requirements:
+* python 3.7
+* torch 1.5
 Run all cells in 
 ```
 face_recovery.ipynb
