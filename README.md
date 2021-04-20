@@ -15,6 +15,7 @@ Paper on [Arxiv](https://arxiv.org/abs/2007.13635).
 ### requirements:
 * python 3.7
 * torch 1.5
+
 Run all cells in 
 ```
 face_recovery.ipynb
